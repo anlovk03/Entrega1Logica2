@@ -1,5 +1,6 @@
 # Entrega1Logica2
 Entregable 1 del curso lógica 2 con Java
+
 Estudiante : Ana Sofía Osorio Martínez
 Docente : Daniel Agudelo
 
